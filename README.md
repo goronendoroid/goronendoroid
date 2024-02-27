@@ -1,9 +1,7 @@
 <img src="https://media3.giphy.com/media/v7FDuR0rh63Qjwci0o/giphy.gif?cid=6c09b952npo78grymgjq2q6zfox7liio92skhs74v46s83d6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=80" width="400">
 
 ***
-<p align="center">uaua
-![a](https://giphy.com/explore/makoto-yuki)
-
+<p align="center"> main rentry
 <!--
 **reo-mikage/reo-mikage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
