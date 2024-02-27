@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v7FDuR0rh63Qjwci0o/giphy.gif?cid=6c09b952npo78grymgjq2q6zfox7liio92skhs74v46s83d6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=80" width="100" height="100" order="10">
+<img src="https://media3.giphy.com/media/v7FDuR0rh63Qjwci0o/giphy.gif?cid=6c09b952npo78grymgjq2q6zfox7liio92skhs74v46s83d6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=80" width="400">
 
 ***
 <p align="center">uaua
